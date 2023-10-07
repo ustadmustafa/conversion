@@ -1,0 +1,14 @@
+C:\Users\musta\OneDrive\Masaüstü\Pratikler\donusumler\bin\Debug\net7.0\donusumler.exe
+C:\Users\musta\OneDrive\Masaüstü\Pratikler\donusumler\bin\Debug\net7.0\donusumler.deps.json
+C:\Users\musta\OneDrive\Masaüstü\Pratikler\donusumler\bin\Debug\net7.0\donusumler.runtimeconfig.json
+C:\Users\musta\OneDrive\Masaüstü\Pratikler\donusumler\bin\Debug\net7.0\donusumler.dll
+C:\Users\musta\OneDrive\Masaüstü\Pratikler\donusumler\bin\Debug\net7.0\donusumler.pdb
+C:\Users\musta\OneDrive\Masaüstü\Pratikler\donusumler\obj\Debug\net7.0\donusumler.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\musta\OneDrive\Masaüstü\Pratikler\donusumler\obj\Debug\net7.0\donusumler.AssemblyInfoInputs.cache
+C:\Users\musta\OneDrive\Masaüstü\Pratikler\donusumler\obj\Debug\net7.0\donusumler.AssemblyInfo.cs
+C:\Users\musta\OneDrive\Masaüstü\Pratikler\donusumler\obj\Debug\net7.0\donusumler.csproj.CoreCompileInputs.cache
+C:\Users\musta\OneDrive\Masaüstü\Pratikler\donusumler\obj\Debug\net7.0\donusumler.dll
+C:\Users\musta\OneDrive\Masaüstü\Pratikler\donusumler\obj\Debug\net7.0\refint\donusumler.dll
+C:\Users\musta\OneDrive\Masaüstü\Pratikler\donusumler\obj\Debug\net7.0\donusumler.pdb
+C:\Users\musta\OneDrive\Masaüstü\Pratikler\donusumler\obj\Debug\net7.0\donusumler.genruntimeconfig.cache
+C:\Users\musta\OneDrive\Masaüstü\Pratikler\donusumler\obj\Debug\net7.0\ref\donusumler.dll
